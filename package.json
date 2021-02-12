@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "@nuxtjs/axios": "^5.12.5",
-    "@teamfunction/wind-components": "0.0.5",
+    "@teamfunction/wind-components": "^0.9.0",
     "core-js": "^3.8.3",
     "nuxt": "^2.14.12"
   },
